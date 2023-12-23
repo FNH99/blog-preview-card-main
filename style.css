@@ -55,6 +55,11 @@ img {
     font-size: 1.25rem;
 }
 
+.container h2:hover {
+    color: var(--Yellow);
+    cursor: pointer;
+}
+
 .container p {
     margin-bottom: 2rem;
     color: var(--Grey);
