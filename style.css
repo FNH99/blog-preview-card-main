@@ -13,7 +13,7 @@
 }
 
 body {
-    background: 0;
+    background: var(--Yellow);
 }
 
 .container {
@@ -31,4 +31,48 @@ img {
     max-width: 100%;
     max-height: 100%;
     border-radius: 0.75rem;
+}
+
+.container .tag {
+    background: var(--Yellow);
+    padding: 0.25rem 0.75rem;
+    max-width: fit-content;
+    font-weight: 800;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 0.25rem;
+}
+
+.container .date {
+    font-size: smaller;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.container h2 {
+    margin-bottom: 1rem;
+    font-weight: 800;
+    font-size: 1.25rem;
+}
+
+.container p {
+    margin-bottom: 2rem;
+    color: var(--Grey);
+    font-size: 1rem;
+}
+
+.author-tag {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.5rem;
+}
+
+.author-tag img {
+    width: 2rem;
+    margin-right: 0.75rem;
+}
+
+.author-tag .author-name {
+    font-weight: 800;
+    font-size: 0.8rem;
 }
