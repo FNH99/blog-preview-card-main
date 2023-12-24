@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://github.com/FNH99/blog-preview-card-main/blob/master/images/screenshot.png)
+![](https://github.com/FNH99/blog-preview-card-main/blob/main/assets/images/screenshot.png)
 
 ### Links
 
