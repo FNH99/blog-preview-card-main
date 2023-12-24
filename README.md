@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [blog preview card](https://your-live-site-url.com)
+- Live Site URL: [blog preview card](https://blog-preview-card-main-seven.vercel.app)
 
 ## Author
 
